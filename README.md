@@ -1,1 +1,1 @@
-# expert-garbanzo
+# 코딩테스트 공부
